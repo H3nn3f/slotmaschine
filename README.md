@@ -1,2 +1,2 @@
 # slotmaschine
- slot_maschine_
+Its just a basic Slotmaschine:3

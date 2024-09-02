@@ -224,7 +224,7 @@ class SlotMachineGame:
         pygame.mixer.quit()
         self.root.destroy()
     def open_github(self):
-            webbrowser.open("https://github.fh-zwickau.de/hes23n6v/slot_maschine")
+            webbrowser.open("https://github.com/H3nn3f/slotmaschine")
 
 #Erstelle das Hauptfenster
 root = tk.Tk()
